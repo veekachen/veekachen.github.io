@@ -26,7 +26,7 @@
     
     <entry>
       <title><![CDATA[Hexo + nexT + github 搭建静态页面个人博客]]></title>
-      <url>/2017/05/01/Hexo-nexT-github-%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      <url>/2017/05/02/Hexo-nexT-github-%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E9%A1%B5%E9%9D%A2%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
       <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>见朋友搭建了一个个人博客，自己也想搭一个玩玩，所以就折腾了一下，哈。<br><a id="more"></a><br>系统：Mac OS X。</p>
 <h2 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h2><h3 id="安装git"><a href="#安装git" class="headerlink" title="安装git"></a>安装git</h3><p>如安装过xcode，那么git应该已经安装好了，可用如下命令测试。</p>
 <p>终端执行（下文所有的命令都是在终端中执行）</p>
@@ -146,7 +146,7 @@
 <p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=470573565&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=3949477&auto=1&height=66"></iframe>
 ]]></content>
       
         
